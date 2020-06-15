@@ -4,6 +4,10 @@ textarea {
     width: 100%;
 }
 
+textarea {
+    height: 5rem;
+}
+
 mat-error {
     font-size: 0.8rem;
 }
