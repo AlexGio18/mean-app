@@ -11,3 +11,7 @@ textarea {
 mat-error {
     font-size: 0.8rem;
 }
+
+mat-spinner {
+  margin: auto;
+}
